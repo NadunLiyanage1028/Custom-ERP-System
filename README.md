@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -Custom ERP System -
 
 This is a simple ERP system developed using PHP, MySQL, and Bootstrap , CSS, JS as part of the Full Stack Developer Assignment.
@@ -61,3 +62,7 @@ Steps:
 
 
 
+=======
+# Custom-ERP-System
+A simple ERP system built using PHP, MySQL, Bootstrap, CSS and JavaScript for managing customers, items, and reports. Features include form validation, clean UI with Bootstrap cards and tables, dynamic dropdowns, and date-filtered invoice reports.
+>>>>>>> b4a7839fc72f18f17c96d2508fe5cb40e2bf88cc
